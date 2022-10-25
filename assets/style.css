@@ -1,0 +1,27 @@
+*{
+    font-family: 'Chakra Petch', sans-serif;;
+}
+
+h1{
+    margin: 50px 0px;
+}
+
+div{
+    text-align: center;
+    margin: 0px 150px;
+    padding: 30px 0px;
+}
+
+input{
+    text-align: center;
+    margin: 30px 0px;
+}
+
+button{
+    padding: 8px 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: #4b0082;
+    color: white;
+}
+
