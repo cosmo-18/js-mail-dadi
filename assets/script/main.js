@@ -42,10 +42,13 @@ function Ricerca() {
         for (let i=0; i<addresses.length; i++) {
             if(addresses[i]==email) {
                 console.log('trovato');
+                alert ("Operazione completata con successo !")
                 return 0;
+                
             }
             else if (addresses[i]!=email) {   
                  console.log('non trovato')
+                 alert ("Assicurati che la email sia coretta !")
         }
         
     }
