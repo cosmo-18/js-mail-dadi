@@ -8,7 +8,7 @@ h1{
 
 div{
     text-align: center;
-    margin: 0px 150px;
+    margin: 0px 180px;
     padding: 30px 0px;
 }
 
@@ -25,3 +25,31 @@ button{
     color: white;
 }
 
+.btn-sec{
+    padding: 3px 30px;
+    border-radius: 5px;
+    border: none;
+    background-color: #d64161;
+    color: white;
+    margin-bottom: 30px;
+    margin-right: 10px;
+}
+
+#random{
+    margin: auto;
+    padding: 4px 20px;
+    border: 1px solid orange;
+    border-radius: 4px;
+    font-size: 15px;
+    vertical-align:middle;
+
+}
+
+#player{
+        padding: 4px 20px;
+        border: 1px solid blue ;
+        border-radius: 4px;
+        font-size: 15px;
+        vertical-align:middle;
+        margin-left: 15px;
+}
